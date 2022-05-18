@@ -1,0 +1,152 @@
+
+*, *:before, *:after { box-sizing: border-box; }
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: helvetica;
+  position: relative;
+  font-size: 100%;
+  background: #101010;
+}
+.gallery-container {
+  padding: .9375rem 0;
+}
+.gallery-container h1 {
+  margin: 2rem 0;
+  padding: 0;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 6.5vw;
+  font-weight: lighter;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 18px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  img {
+    width: 100%;
+  }
+}
+
+p{
+  color: #a7a7a7;
+  margin-bottom: 0 !important;
+  font-size: 8pt;
+  text-align: center;
+}
+
+.small-title{
+  color: #fff;
+  font-size: 10pt;
+  text-align: center;
+}
+
+h4{
+  color: #fff;
+  text-align: center;
+}
+
+h5{
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+}
+.gallery-grid>div {
+  position: relative;
+  cursor: pointer;
+  &:before, &:after {
+    transition: .3s opacity ease;
+    opacity: 0;
+  }
+  &:after {
+    font-size: 80px;
+    position: absolute;
+    transform: translate3d(-50%, -50%, 0) rotate(-45deg);
+    color: #fff;
+    left: 50%;
+    top: 50%;
+    display: block;
+  }
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+    outline: 2px solid #ffd900;
+    outline-style: outset;
+    color: #ffd900;
+    display: block;
+  }
+  &:hover {
+    &:before, &:after {
+      opacity: 1;
+      transition: .3s opacity ease;
+    }
+  }
+}
+
+.modal {
+  position: fixed;
+  z-index: 999;
+  width: 50%;
+  max-width: 800px;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+
+  img {
+    width: 100%;
+    border: 5px solid #fff;
+  }
+}
+
+.modal-overlay {
+  position: fixed;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+}
+.modal-body a {
+  position: absolute;
+  display: inline;
+  text-decoration: none;
+  line-height: 36px;
+  font-size: 30px;
+  font-weight: lighter;
+  background: #fff;
+  border-radius: 5px;
+  height: 40px; width: 40px;
+  text-align: center;
+}
+.modal-body .modal-close {
+  right: 0; top: 0;
+  border-radius: 0 0 0 5px;
+}
+.modal-body .modal-next,
+.modal-body .modal-prev {
+  right: 0; top: calc(50% - 25px);
+  border-radius: 5px 0 0 5px;
+  height: 50px;
+  line-height: 40px;
+  font-size: 60px;
+}
+.modal-body .modal-prev {
+  left: 0;
+  right: auto;
+  border-radius: 0 5px 5px 0;
+}
+.modal-body {
+  position: relative;
+}
