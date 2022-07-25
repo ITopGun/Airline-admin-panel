@@ -161,7 +161,6 @@ We use GitHub Issues as the official bug tracker for the Material Dashboard Reac
 
 If you have questions or need help integrating the product please [contact us](https://github.com/ITopGun) instead of opening an issue.
 
-## Licensing
 
 - Copyright 2020 Airline (https://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react/blob/master/LICENSE.md)
