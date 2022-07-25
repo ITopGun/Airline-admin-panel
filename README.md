@@ -169,8 +169,6 @@ More products from Airline: <https://github.com/ITopGun>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-Freebies: <https://www.creative-tim.com/products>
-
 Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
