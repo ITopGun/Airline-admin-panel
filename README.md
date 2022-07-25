@@ -64,9 +64,6 @@ Quick start options:
 - `npm i material-dashboard-react`
 - Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react.git`.
 
-- [Download from Airline](https://www.creative-tim.com/product/material-dashboard-react).
-
-
 ## Documentation
 The documentation for the Material Dashboard React is hosted at our [website](https://demos.creative-tim.com/material-dashboard-react/#/documentation/tutorial).
 
