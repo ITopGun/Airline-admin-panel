@@ -16,7 +16,6 @@ Material Dashboard React was created using [create-react-app](https://github.com
 
 ## Table of Contents
 
-* [Demo](#demo)
 * [Quick Start](#quick-start)
 * [File Structure](#file-structure)
 * [Browser Support](#browser-support)
