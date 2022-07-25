@@ -181,4 +181,5 @@ Google+: <https://plus.google.com/+pb891215@gmail.com>
 ## Contact
 
 Guru: <https://www.guru.com/freelancers/peter-la-brash>
+
 AngelList: <https://angel.co/u/peter-labrash>
