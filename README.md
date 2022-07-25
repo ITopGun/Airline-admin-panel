@@ -21,6 +21,7 @@ Material Dashboard React was created using [create-react-app](https://github.com
 * [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
+* [Useful Links](#useful-links)
 
 ## Quick start
 
@@ -164,7 +165,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Useful Links
 
-More products from Airline: <https://www.creative-tim.com/products>
+More products from Airline: <https://github.com/ITopGun>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
