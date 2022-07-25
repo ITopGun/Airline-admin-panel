@@ -175,12 +175,10 @@ Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
 
-Twitter: <https://twitter.com/CreativeTim>
+Skype: <https://join.skype.com/invite/vPyD4Zm0sF1r>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Telegram: <https://t.me/peter941228>
 
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
+Google+: <https://plus.google.com/+pb891215@gmail.com>
 
 Instagram: <https://instagram.com/creativetimofficial>
