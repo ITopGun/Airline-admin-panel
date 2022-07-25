@@ -176,5 +176,3 @@ Skype: <https://join.skype.com/invite/vPyD4Zm0sF1r>
 Telegram: <https://t.me/peter941228>
 
 Google+: <https://plus.google.com/+pb891215@gmail.com>
-
-Instagram: <https://instagram.com/creativetimofficial>
