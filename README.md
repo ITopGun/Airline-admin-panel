@@ -159,7 +159,7 @@ We use GitHub Issues as the official bug tracker for the Material Dashboard Reac
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://github.com/ITopGun) instead of opening an issue.
 
 ## Licensing
 
