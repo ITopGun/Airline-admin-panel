@@ -179,3 +179,5 @@ Telegram: <https://t.me/peter941228>
 Google+: <https://plus.google.com/+pb891215@gmail.com>
 
 ## Contact
+
+Guru: <https://www.guru.com/freelancers/peter-la-brash>
